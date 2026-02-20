@@ -26,7 +26,7 @@ DEVICE = 0
 
 WAKE_WORDS = ["सुनो", "सुन", "सुनो जी"]
 
-SILENCE_TIMEOUT = 3.5
+SILENCE_TIMEOUT = 1.5
 ACTIVE_TIMEOUT = 30
 
 USER_DATA_FILE = "user_data.json"
